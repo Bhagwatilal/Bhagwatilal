@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhagwatilal
-- 👀 I’m interested in coading
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript and Nodejs
 - 💞️ I’m looking to collaborate on Various Projects on Java
 - 📫 How to reach me gmail-bhagavtilaljoshi1@gmail.com
