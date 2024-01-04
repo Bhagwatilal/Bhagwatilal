@@ -1,32 +1,68 @@
+<h1 align="center">Hi 👋, I'm Bhagwatilal Joshi</h1>
+<h3 align="center">A passionate frontend developer from India.</h3>
+<div align="center">
 
-Hi there! 👋
-I'm Bhagwatilal, a passionate Web Developer based in Nashik. Welcome to my GitHub profile!
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Bhagwatilal&label=Profile%20views&color=0e75b6&style=flat" alt="Bhagwatilal" />
+  </p>
 
-🔧 Technologies & Tools
-I love working with a variety of technologies, and some of my favorites include:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhagwatilal/Bhagwatilal/output/snake.svg" alt="Snake animation" />
+</p>
 
-💻 Languages: C++, Java, HTML, CSS, Python, JavaScript.<br>
-🧰 Frameworks: Node.js, Express, Tensorflow.<br>
-🚀 Tools: Vs code, Sublimetext, Textpad.<br>
-🌱 I'm Currently Learning JavaScript.<br>
-I believe in continuous learning, and currently, I'm exploring:
+  <p align="center">
+    <a href="https://holopin.io/@bhagwatilal">
+      <img src="https://holopin.me/bhagwatilal" alt="Holopin Profile">
+    </a>
+  </p>
 
-🌐 Node.js<br>
-📊 Express<br>
-👯 I’m Looking to Collaborate On Exciting Projects <br>
-I'm always open to collaborating on exciting projects. If you have an idea or need help with something, feel free to reach out!
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Bhagwatilal" alt="Bhagwatilal" />
+    </a>
+  </p>
 
-🤝 Let's Connect<br>
-LinkedIn : linkedin.com/in/bhagwatilal-joshi-863b14264 <br>
-Twitter : https://twitter.com/BhagavtiL  <br>
+  - 🔭 I’m currently working on **Javascript Projects**
+  - 🌱 I’m currently learning **Javascript and Node.js**
+  - 👯 I’m looking to collaborate on **Web Development**
+  - 📫 How to reach me: [bhagavtilaljoshi1@gmail.com](mailto:bhagavtilaljoshi1@gmail.com)
+  - ⚡ Fun fact:I always start learning from middle.
 
-💬 Ask Me About
-If you have any questions or just want to chat about: <br>
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/bhagwatilal-joshi-863b14264/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 
-🚀 Exciting projects : MAGi2.0 <br>
-🌐 Technology trends : Cloud Computing and JavaScript <br>
-📚 Book recommendations : - <br>
-📈 GitHub Stats <br>
+</p>
 
+  <h3 align="center">Languages and Tools:</h3>
+  <p align="center"> 
+    <!-- Add your tools and languages icons here -->
+  </p>
 
-Thanks for stopping by! Feel free to explore my repositories and don't hesitate to get in touch. Let's build something amazing together! 🚀
+  <h3 align="center">Support:</h3>
+  <p align="center">
+    <a href="https://www.buymeacoffee.com/bhagwatilal">
+      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhagwatilal&show_icons=true&locale=en&layout=compact" alt="Bhagwatilal" />
+  </p>
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhagwatilal&show_icons=true&locale=en" alt="Bhagwatilal" />
+  </p>
+
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagwatilal&" alt="Bhagwatilal" />
+  </p>
+
+  
+
+  [![Swap-Nova's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagwatilal&theme=react-dark&hide_border=true&area=true)](https://github.com/Bhagwatilal/github-readme-activity-graph)
+
+ 
+</div>
