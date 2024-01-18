@@ -26,7 +26,7 @@
   - 🌱 I’m currently learning **Javascript and Node.js**
   - 👯 I’m looking to collaborate on **Web Development**
   - 📫 How to reach me: [bhagavtilaljoshi1@gmail.com](mailto:bhagavtilaljoshi1@gmail.com)
-  - ⚡ Fun fact:I always start learning from middle.
+  - ⚡ Fun fact: I always start learning from middle.
 
   <h3 align="center">Connect with me:</h3>
 <p align="center">
